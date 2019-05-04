@@ -157,8 +157,6 @@ class LinkedList(object):
         output = "{}{}".format(output, current_node.getData())
         return output
 
-            
-
 
 linkedlist = LinkedList()
 
